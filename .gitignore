@@ -1,0 +1,24 @@
+# Used by jupyter notebook
+.ipynb_checkpoints/
+
+# Generate this file from git lfs command rather than track it
+*.gitattributes
+
+# Logs
+/logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Vim swap files
+*.swp
